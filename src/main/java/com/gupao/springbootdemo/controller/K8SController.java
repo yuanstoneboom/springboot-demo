@@ -11,6 +11,6 @@ public class K8SController {
 
     @RequestMapping("/k8s")
     public String k8s(){
-        return "hello K8s <br/>2021/01/06 10:30";
+        return "hello K8s <br/>2021/01/07 10:30";
     }
 }
